@@ -14,9 +14,9 @@ count=0
 player.set_colorkey((0,0,0))
 arrow.set_colorkey((0,0,0))
 zet.set_colorkey((0,0,0))
-img_a=pygame.image.load('a.png')
-img_b=pygame.image.load('b.png')
-img_p=pygame.image.load('p.png')
+img_a=pygame.image.load('src/a.png')
+img_b=pygame.image.load('src/b.png')
+img_p=pygame.image.load('src/p.png')
 myfont=pygame.font.SysFont('monospase', 15)
 a_x=1000
 a_y=1000
